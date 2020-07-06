@@ -1,1 +1,1 @@
----?video=https://res.cloudinary.com/dimensione3-srl/raw/upload/v1594020981/ZanottaProva/watch.mp4&size=auto 100%
+---?video=https://res.cloudinary.com/dimensione3-srl/raw/upload/v1594020981/ZanottaProva/watch
