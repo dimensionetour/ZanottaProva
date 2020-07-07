@@ -9,6 +9,5 @@
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594028394/ZanottaProva/Diapositiva9.jpg&size=contain
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594028395/ZanottaProva/Diapositiva10.jpg&size=contain
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594028398/ZanottaProva/Diapositiva11.jpg&size=contain
----?video=https://res.cloudinary.com/dimensione3-srl/video/upload/v1594127850/ZanottaProva/Afraid_of_Technology_Youtubetomp3.sc.mp4&size=contain
+---?video=https://res.cloudinary.com/dimensione3-srl/video/upload/v1594127850/ZanottaProva/Afraid_of_Technology_Youtubetomp3.sc.mp4&size=auto 95%&volume= auto 50%
 
-##auto 95%
