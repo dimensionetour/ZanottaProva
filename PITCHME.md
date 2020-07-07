@@ -3,7 +3,7 @@
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594028386/ZanottaProva/Diapositiva3.jpg&size=contain
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594028387/ZanottaProva/Diapositiva4.jpg&size=contain
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594028387/ZanottaProva/Diapositiva5.jpg&size=contain
----?video=https://res.cloudinary.com/dimensione3-srl/video/upload/v1594125905/ZanottaProva/Animated_GIF-original.mp4&size=contain
+---?video=https://res.cloudinary.com/dimensione3-srl/video/upload/v1594126319/ZanottaProva/output_rFZfSw.mp4&size=contain
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594028390/ZanottaProva/Diapositiva7.jpg&size=contain
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594028392/ZanottaProva/Diapositiva8.jpg&size=contain
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594028394/ZanottaProva/Diapositiva9.jpg&size=contain
