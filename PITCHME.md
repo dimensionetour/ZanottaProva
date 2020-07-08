@@ -1,4 +1,4 @@
-
+---
 @audio(assets/audio/Jill_of_the_Jungle_-_Funky_Theme.mp3)
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594133175/ZanottaProva/slide1.jpg&size=auto 100%
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594133174/ZanottaProva/slide2.jpg&size=auto 100%
