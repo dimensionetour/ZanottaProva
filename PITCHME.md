@@ -1,3 +1,3 @@
----?image=(assets/img/1)&size=auto 100%
----?image=(assets/img/2)&size=auto 100%
----?image=(assets/img/3)&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594202015/ZanottaProva/1.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594202015/ZanottaProva/2.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594202015/ZanottaProva/3.jpg&size=auto 100%
