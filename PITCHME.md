@@ -5,4 +5,6 @@
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593032211/Zanotta/Nena_0343.jpg&size=auto 100%
 ---?color=#0F2862
 
-k
+@snap[midpoint span-50 text-10]
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
+@snapend
