@@ -3,4 +3,4 @@
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594202015/ZanottaProva/3.jpg&size=auto 100%
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594133174/ZanottaProva/slide4.jpg&size=auto 100%
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593032211/Zanotta/Nena_0343.jpg&size=auto 100%
---- hello
+---?text=hello
