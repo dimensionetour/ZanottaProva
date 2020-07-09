@@ -1,11 +1,26 @@
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594202015/ZanottaProva/1.jpg&size=auto 100%
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594202015/ZanottaProva/2.jpg&size=auto 100%
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594202015/ZanottaProva/3.jpg&size=auto 100%
+---?color=#ffffff
+
+@snap[midpoint span-50 text-18]
+Questo è un tag slideshow
+@snapend
+
+---?color=#ffffff
+
+@snap[midpoint span-50 text-18]
+La dimensione è fissa. I contenuti devono essere sviluppati in funzione della dimensione stessa.
+@snapend
+
+---?color=#ffffff
+
+@snap[midpoint span-50 text-18]
+E’ possibile inserire: Nome prodotto, descrizione, slideshow di immagini, animazioni gif, video, link, sottofondo audio 
+@snapend
+
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594133174/ZanottaProva/slide4.jpg&size=auto 100%
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593032211/Zanotta/Nena_0343.jpg&size=auto 100%
 ---?color=#ffffff
 
-@snap[midpoint span-50 text-15]
+@snap[midpoint span-50 text-18]
 [Scopri di più su Nena, clicca qui](https://www.zanotta.it/it/prodotti/sedie/nena)
 @snapend
 
