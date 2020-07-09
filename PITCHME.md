@@ -1,4 +1,4 @@
----?color=auto&size=auto 100%
+---?color=auto
 
 @snap [top]
 !<div class="sketchfab-embed-wrapper">
