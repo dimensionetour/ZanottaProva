@@ -1,18 +1,18 @@
 ---?color=#ffffff
 
-@snap[midpoint span-200 text-18]
+@snap[midpoint span-50 text-17]
 Questo è un tag slideshow
 @snapend
 
 ---?color=#ffffff&transition= fade
 
-@snap[midpoint span-200 text-18]
+@snap[midpoint span-50 text-17]
 La dimensione è fissa. I contenuti devono essere sviluppati in funzione della dimensione stessa.
 @snapend
 
 ---?color=#ffffff
 
-@snap[midpoint span-200 text-18]
+@snap[midpoint span-50 text-17]
 E’ possibile inserire: Nome prodotto, descrizione, slideshow di immagini, animazioni gif, video, link, sottofondo audio 
 @snapend
 
@@ -20,7 +20,7 @@ E’ possibile inserire: Nome prodotto, descrizione, slideshow di immagini, animaz
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593032211/Zanotta/Nena_0343.jpg&size=auto 100%
 ---?color=#ffffff
 
-@snap[midpoint span-50 text-18]
+@snap[midpoint span-50 text-17]
 [Scopri di più su Nena, clicca qui](https://www.zanotta.it/it/prodotti/sedie/nena)
 @snapend
 
