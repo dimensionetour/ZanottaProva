@@ -6,7 +6,7 @@ Questo è un tag slideshow
 
 ---?color=#ffffff
 
-@snap[midpoint span-80 text-18]
+@snap[midpoint span-150 text-18]
 La dimensione è fissa. I contenuti devono essere sviluppati in funzione della dimensione stessa.
 @snapend
 
