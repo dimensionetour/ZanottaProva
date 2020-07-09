@@ -10,10 +10,6 @@ Scopri di più su Nena, clicca qui
 https://www.zanotta.it/it/prodotti/sedie/nena
 @snapend
 
-@snap[north-west span-50 text-center text-smallcaps text-08]
-Rich Media Support
-@snapend
-
-@snap[east span-45 text-left]
+@snap[east span-70 text-center]
 ![Gravity](https://player.vimeo.com/video/125471012)
 @snapend
