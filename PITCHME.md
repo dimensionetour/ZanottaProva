@@ -1,6 +1,6 @@
 ---?color=#ffffff
 
-@snap[midpoint span-80 text-18]
+@snap[midpoint span-10 text-18]
 Questo è un tag slideshow
 @snapend
 
