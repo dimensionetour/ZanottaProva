@@ -10,6 +10,8 @@ Scopri di più su Nena, clicca qui
 https://www.zanotta.it/it/prodotti/sedie/nena
 @snapend
 
+---?color=auto
+
 @snap[east span-70 text-center]
-![Gravity](https://player.vimeo.com/video/125471012)
+![Gravity](https://res.cloudinary.com/dimensione3-srl/video/upload/v1594279938/ZanottaProva/NENA_001-003_1.mp4)
 @snapend
