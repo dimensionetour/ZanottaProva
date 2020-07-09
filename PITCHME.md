@@ -11,7 +11,7 @@
 </div>
 @snapend
 
----?color=auto&size=auto 100%
+---?color=auto
 
 @snap[text-center]
 !<div class="sketchfab-embed-wrapper">
