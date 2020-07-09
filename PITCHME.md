@@ -1,18 +1,18 @@
 ---?color=#ffffff
 
-@snap[midpoint span-50 text-18]
+@snap[midpoint span-60 text-18]
 Questo è un tag slideshow
 @snapend
 
 ---?color=#ffffff
 
-@snap[midpoint span-50 text-18]
+@snap[midpoint span-60 text-18]
 La dimensione è fissa. I contenuti devono essere sviluppati in funzione della dimensione stessa.
 @snapend
 
 ---?color=#ffffff
 
-@snap[midpoint span-50 text-18]
+@snap[midpoint span-60 text-18]
 E’ possibile inserire: Nome prodotto, descrizione, slideshow di immagini, animazioni gif, video, link, sottofondo audio 
 @snapend
 
