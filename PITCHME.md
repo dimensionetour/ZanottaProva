@@ -7,5 +7,13 @@
 
 @snap[midpoint span-50 text-15]
 Scopri di più su Nena, clicca qui 
-@box[bg-gold text-white rounded box-padding](https://www.zanotta.it/it/prodotti/sedie/nena)
+https://www.zanotta.it/it/prodotti/sedie/nena
+@snapend
+
+@snap[north-west span-50 text-center text-smallcaps text-08]
+Rich Media Support
+@snapend
+
+@snap[east span-45 text-left]
+![Gravity](https://player.vimeo.com/video/125471012)
 @snapend
