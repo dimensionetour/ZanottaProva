@@ -6,5 +6,6 @@
 ---?color=#ffffff
 
 @snap[midpoint span-50 text-15]
-Scopri di più su Nena, clicca qui [https://www.zanotta.it/it/prodotti/sedie/nena]
+Scopri di più su Nena, clicca qui 
+@https://www.zanotta.it/it/prodotti/sedie/nena
 @snapend
