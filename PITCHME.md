@@ -1,19 +1,21 @@
 ---?color=#ffffff
 
-@snap[text-17]
+@snap[text-18]
 Questo è un tag slideshow
 @snapend
 
 ---?color=#ffffff&transition= fade
 
-@snap[midpoint span-50 text-17]
-La dimensione è fissa. I contenuti devono essere sviluppati in funzione della dimensione stessa.
+@snap[text-18]
+La dimensione è fissa. 
+I contenuti devono essere sviluppati in funzione della dimensione stessa.
 @snapend
 
 ---?color=#ffffff
 
-@snap[midpoint span-50 text-17]
-E’ possibile inserire: Nome prodotto, descrizione, slideshow di immagini, animazioni gif, video, link, sottofondo audio 
+@snap[text-18]
+E’ possibile inserire: 
+Nome prodotto, descrizione, slideshow di immagini, animazioni gif, video, link, sottofondo audio 
 @snapend
 
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594133174/ZanottaProva/slide4.jpg&size=auto 100%
