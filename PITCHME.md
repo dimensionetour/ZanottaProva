@@ -34,7 +34,7 @@ Nome prodotto, descrizione, slideshow di immagini, animazioni gif, video, link, 
 
 ---?color=auto
 
-@snap[midpoint span-50 text-15]
-!(<blockquote class="embedly-card"><h4><a href="https://res.cloudinary.com/dimensione3-srl/image/upload/v1594282599/ZanottaProva/Zanotta_Catalogo_Collezione_2020.pdf">null</a></h4><p>null</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>)
+@snap
+!<blockquote class="embedly-card"><h4><a href="https://res.cloudinary.com/dimensione3-srl/image/upload/v1594282599/ZanottaProva/Zanotta_Catalogo_Collezione_2020.pdf">null</a></h4><p>null</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 @snapend
