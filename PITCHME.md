@@ -5,6 +5,6 @@
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593032211/Zanotta/Nena_0343.jpg&size=auto 100%
 ---?color=#ffffff
 
-@snap[midpoint span-50 text-25]
+@snap[midpoint span-50 text-15]
 Scopri di più su Nena, clicca qui [https://www.zanotta.it/it/prodotti/sedie/nena]
 @snapend
