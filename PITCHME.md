@@ -32,4 +32,8 @@ Nome prodotto, descrizione, slideshow di immagini, animazioni gif, video, link, 
 [Scopri di più su Nena, clicca qui](https://www.zanotta.it/it/prodotti/sedie/nena)
 @snapend
 
----?pdf=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594282599/ZanottaProva/Zanotta_Catalogo_Collezione_2020.pdf
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594282599/ZanottaProva/Zanotta_Catalogo_Collezione_2020.pdf
+
+@snap[midpoint span-50 text-15]
+![Zanotta](https://res.cloudinary.com/dimensione3-srl/image/upload/v1594282599/ZanottaProva/Zanotta_Catalogo_Collezione_2020.pdf)
+@snapend
