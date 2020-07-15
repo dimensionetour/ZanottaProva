@@ -21,7 +21,7 @@ Nome prodotto, descrizione, slideshow di immagini, animazioni gif, video, link, 
 ---?color=auto&size=0.5x
 
 @snap[midpoint span-50 text-15]
-![Zanotta](https://res.cloudinary.com/dimensione3-srl/video/upload/v1594279938/ZanottaProva/NENA_001-003_1.mp4)
+![Zanotta](https://www.youtube.com/watch?v=0YC-6O2JkDY&feature=youtu.be)
 @snapend
 
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594133174/ZanottaProva/slide4.jpg&size=auto 100%
