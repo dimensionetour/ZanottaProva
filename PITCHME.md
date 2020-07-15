@@ -21,7 +21,8 @@ Nome prodotto, descrizione, slideshow di immagini, animazioni gif, video, link, 
 ---?color=auto&size=0.5x
 
 @snap[midpoint span-50 text-15]
-[Zanotta](<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=0YC-6O2JkDY&feature=youtu.be">Nena, Zanotta</a></h4><p>http://dimensione3.com</p></blockquote>)
+![Zanotta](<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=0YC-6O2JkDY&feature=youtu.be">Nena, Zanotta</a></h4><p>http://dimensione3.com</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>)
 @snapend
 
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594133174/ZanottaProva/slide4.jpg&size=auto 100%
