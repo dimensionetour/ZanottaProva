@@ -65,7 +65,7 @@ description : "GitPitch Markdown Presentations for Developers."
 
 # PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
 theme            : template
-theme-background : [ "#27AE60" ]
+theme-background : [ "#8E44AD" ]
 background          : assets/img/conference.png
 background-position : left top
 background-size     : 100% 100%

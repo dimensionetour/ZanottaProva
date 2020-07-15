@@ -6,3 +6,5 @@
  
 </div>
 @snapend
+
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594133175/ZanottaProva/slide9.jpg
