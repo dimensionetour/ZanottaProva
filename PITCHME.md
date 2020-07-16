@@ -1,6 +1,5 @@
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594886111/ZanottaProva/h.png&size= contain
-@audio[Greeting](<blockquote class="embedly-card"><h4><a href="https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ISSUE_Project_Room/Alison_Knowles/Sounds_from_the_Book_of_Bean/Alison_Knowles_-_04_-_Popular_Bean_Soup.mp3">null</a></h4><p>null</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>)
+@audio[Greeting](https://res.cloudinary.com/dimensione3-srl/video/upload/v1594888877/ZanottaProva/Alison_Knowles_-_04_-_Popular_Bean_Soup.mp3)
 
 ---?color=auto&size=auto 120%
 @snap [top]
