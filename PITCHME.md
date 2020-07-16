@@ -1,4 +1,4 @@
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594886111/ZanottaProva/h.png
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594886111/ZanottaProva/h.png&size= contain
 @audio[Greeting](assets/audio/Jill_of_the_Jungle_Funky_Theme)
 
 ---?color=auto&size=auto 120%
