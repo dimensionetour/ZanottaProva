@@ -1,5 +1,5 @@
 ---
-@audio[Greeting](assets\audio\Jill_of_the_Jungle_Funky_Theme)
+@audio[Greeting](assets/audio/Jill_of_the_Jungle_Funky_Theme)
 
 ---?color=auto&size=auto 120%
 @snap [top]
