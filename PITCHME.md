@@ -1,5 +1,5 @@
 ---
-@audio[Greeting](https://res.cloudinary.com/dimensione3-srl/video/upload/v1594130566/ZanottaProva/Jill_of_the_Jungle_-_Funky_Theme.mp3)
+@audio[Greeting](assets\audio\Jill_of_the_Jungle_Funky_Theme)
 
 ---?color=auto&size=auto 120%
 @snap [top]
