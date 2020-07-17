@@ -10,5 +10,4 @@
 ---
 ![Gravity](https://player.vimeo.com/video/135850173)
 
----?color=auto&size=auto
-[https://res.cloudinary.com/dimensione3-srl/image/upload/v1594970932/ZanottaProva/Zanotta_Catalogo_Collezione_2020-Circle-1.jpg](https://res.cloudinary.com/dimensione3-srl/image/upload/v1594282599/ZanottaProva/Zanotta_Catalogo_Collezione_2020.pdf)
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594970932/ZanottaProva/Zanotta_Catalogo_Collezione_2020-Circle-1.jpg(https://res.cloudinary.com/dimensione3-srl/image/upload/v1594282599/ZanottaProva/Zanotta_Catalogo_Collezione_2020.pdf)
