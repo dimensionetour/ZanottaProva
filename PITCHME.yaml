@@ -22,8 +22,6 @@ title : none
 description : "GitPitch Markdown Presentations for Developers."
 
 audio-deck : true
-gp-menu { display:none; }
-gp-menu-bars { display:none; }
 
 theme            : template
 theme-background : [ "#2B3252" ]
