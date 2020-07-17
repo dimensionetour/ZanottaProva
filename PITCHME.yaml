@@ -9,7 +9,7 @@ theme-links      : [ "#F1C40F", "#5254F7" ]
 theme-code       : [ "Source Code Pro", "100", "120" ]
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
-<footer id="title-footer" class="footer-hidden"><p id="notification" class="footer-hard">Navigate : Space / Arrow Keys | <a href="#" onclick="RevealMenu.toggle()">M</a> - Menu | <a href="#" onclick="enterFullscreen()">F</a> - Fullscreen | <a href="#" onclick="enterOverview()">O</a> - Overview | <a href="#" onclick="enterBlackout()">B</a> - Blackout | <a href="#" onclick="RevealNotes.open()">S</a> - Speaker | <a href="#" onclick="enterHelp()">?</a> - Help</p></footer>
+footer           : hidden
 layout           : center
 
 highlight : tomorrow
@@ -34,4 +34,3 @@ highlight        : hybrid
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 layout           : center
-<footer id="title-footer" class="footer-hidden"><p id="notification" class="footer-hard">Navigate : Space / Arrow Keys | <a href="#" onclick="RevealMenu.toggle()">M</a> - Menu | <a href="#" onclick="enterFullscreen()">F</a> - Fullscreen | <a href="#" onclick="enterOverview()">O</a> - Overview | <a href="#" onclick="enterBlackout()">B</a> - Blackout | <a href="#" onclick="RevealNotes.open()">S</a> - Speaker | <a href="#" onclick="enterHelp()">?</a> - Help</p></footer>
