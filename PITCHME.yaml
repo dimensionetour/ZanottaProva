@@ -53,7 +53,7 @@ layout : center
 # Doc: https://gitpitch.com/docs/settings/published
 #
 published : true
-pro-menus-hidden : true
+bottom-menus-hidden : true
 #
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
@@ -63,8 +63,6 @@ description : "GitPitch Markdown Presentations for Developers."
 # thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
 
 audio-deck : true
-
-!pro-menus-hidden : true 
 
 # PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
 theme            : template
