@@ -46,8 +46,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "<a style='text-decoration:none; color: white;' href='https://www...'>...</a>"
-#
+footnote-hidden : true
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published
 #
