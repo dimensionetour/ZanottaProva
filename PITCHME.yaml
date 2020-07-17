@@ -60,6 +60,11 @@ description : "GitPitch Markdown Presentations for Developers."
 
 audio-deck : true
 
+.gp-menu { display:none; }
+
+.gp-menu-bars { display:none; }
+
+
 # PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
 theme            : template
 theme-background : [ "#2B3252" ]
