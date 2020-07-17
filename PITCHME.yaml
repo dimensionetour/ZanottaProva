@@ -32,3 +32,4 @@ highlight        : hybrid
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 layout           : center
+footnote         : none
