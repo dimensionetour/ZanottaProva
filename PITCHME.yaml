@@ -68,14 +68,14 @@ audio-deck : true
 
 # PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
 theme            : template
-theme-background : [ "#172A3B" ]
-theme-headline   : [ "Raleway", "#A6AFE3", "none", "#FFFFFF", "100", "120", "15" ]
-theme-byline     : [ "Raleway", "#FFFFFF", "none", "#A6AFE3", "100", "110", "15" ]
-theme-text       : [ "Ubuntu", "#FFFFFF", "none", "#F9F871", "100", "100", "15" ]
+theme-background : [ "#2B3252" ]
+theme-headline   : [ "Raleway", "#FAD744", "none", "#FFFFFF", "100", "120", "15" ]
+theme-byline     : [ "Raleway", "#FFFFFF", "none", "#FAD744", "100", "110", "15" ]
+theme-text       : [ "Ubuntu", "#FFFFFF", "none", "#FAD744", "100", "100", "15" ]
 theme-links      : [ "#5289F7", "#5254F7" ]
 theme-code       : [ "Source Code Pro", "100", "120" ]
 highlight        : hybrid
-theme-controls   : [ "" ]
+theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 layout           : center
 # PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-END
