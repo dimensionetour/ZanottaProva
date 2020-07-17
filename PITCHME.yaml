@@ -32,3 +32,16 @@ highlight        : hybrid
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 layout           : center
+
+
+.gp-tip { font-size : 1.5em; }
+
+.gp-contact { font-size : 1.4em; }
+
+.gp-download { margin-left: 10px; }
+
+.gp-menu { display:none; }
+
+.gp-menu-bars { display:none; }
+
+#title-footer { display:none !important; }
