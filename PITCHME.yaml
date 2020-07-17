@@ -1,3 +1,17 @@
+
+.gp-tip { font-size : 1.5em; }
+
+.gp-contact { font-size : 1.4em; }
+
+.gp-download { margin-left: 10px; }
+
+.gp-menu { display:none; }
+
+.gp-menu-bars { display:none; }
+
+#title-footer { display:none !important; }
+
+
 theme            : template
 
 theme-background : [ "#000000" ]
