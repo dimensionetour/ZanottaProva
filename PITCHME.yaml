@@ -46,13 +46,12 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-#footnote : "<a style='text-decoration:none; color: white;' href='https://www...'>...</a>"
+footnote : "<a style='text-decoration:none; color: white;' href='https://www...'>...</a>"
 #
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published
 #
 published : true
-menus-hidden : true
 #
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
