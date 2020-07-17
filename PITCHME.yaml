@@ -17,6 +17,11 @@ theme-code       : [ "Source Code Pro", "100", "120" ]
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 layout           : center
+
+.gp-menu { display:none; }
+
+.gp-menu-bars { display:none; }
+
 #
 # Highlight Setting
 # Doc: https://gitpitch.com/docs/settings/highlight
@@ -59,10 +64,6 @@ description : "GitPitch Markdown Presentations for Developers."
 # thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
 
 audio-deck : true
-
-.gp-menu { display:none; }
-
-.gp-menu-bars { display:none; }
 
 
 # PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
