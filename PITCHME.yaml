@@ -52,7 +52,7 @@ layout : center
 # Doc: https://gitpitch.com/docs/settings/published
 #
 published : true
-navigation-menus-hidden : true
+menus-hidden : true
 #
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
