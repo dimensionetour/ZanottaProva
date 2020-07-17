@@ -1,17 +1,4 @@
 
-.gp-tip { font-size : 1.5em; }
-
-.gp-contact { font-size : 1.4em; }
-
-.gp-download { margin-left: 10px; }
-
-.gp-menu { display:none; }
-
-.gp-menu-bars { display:none; }
-
-#title-footer { display:none !important; }
-
-
 theme            : template
 
 theme-background : [ "#000000" ]
@@ -22,6 +9,8 @@ theme-links      : [ "#F1C40F", "#5254F7" ]
 theme-code       : [ "Source Code Pro", "100", "120" ]
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
+gp-menu { display:none; }
+gp-menu-bars { display:none; }
 layout           : center
 
 highlight : tomorrow
