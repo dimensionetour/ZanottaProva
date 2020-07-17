@@ -9,7 +9,6 @@ theme-code       : [ "Source Code Pro", "100", "120" ]
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 layout           : center
-footnote-color   : #00000
 
 highlight : tomorrow
 
@@ -33,4 +32,3 @@ highlight        : hybrid
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 layout           : center
-footnote         : false
