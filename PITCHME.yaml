@@ -64,7 +64,7 @@ description : "GitPitch Markdown Presentations for Developers."
 
 audio-deck : true
 
-pro-menus-hidden : true 
+!pro-menus-hidden : true 
 
 # PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
 theme            : template
