@@ -9,8 +9,7 @@ theme-links      : [ "#F1C40F", "#5254F7" ]
 theme-code       : [ "Source Code Pro", "100", "120" ]
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
-gp-menu { display:none; }
-gp-menu-bars { display:none; }
+
 layout           : center
 
 highlight : tomorrow
@@ -23,6 +22,8 @@ title : none
 description : "GitPitch Markdown Presentations for Developers."
 
 audio-deck : true
+gp-menu { display:none; }
+gp-menu-bars { display:none; }
 
 theme            : template
 theme-background : [ "#2B3252" ]
@@ -36,15 +37,3 @@ theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 layout           : center
 
-
-.gp-tip { font-size : 1.5em; }
-
-.gp-contact { font-size : 1.4em; }
-
-.gp-download { margin-left: 10px; }
-
-.gp-menu { display:none; }
-
-.gp-menu-bars { display:none; }
-
-#title-footer { display:none !important; }
