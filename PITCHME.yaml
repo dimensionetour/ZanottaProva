@@ -17,7 +17,9 @@ theme-code       : [ "Source Code Pro", "100", "120" ]
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 layout           : center
+menu { display:none; }
 
+menu-bars { display:none; }
 #
 # Highlight Setting
 # Doc: https://gitpitch.com/docs/settings/highlight
