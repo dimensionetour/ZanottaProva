@@ -3,3 +3,7 @@
 }
 
 pro-menus-hidden : true
+
+.gp-menu { display:none; }
+
+.gp-menu-bars { display:none; }

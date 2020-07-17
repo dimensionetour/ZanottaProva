@@ -18,10 +18,6 @@ theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 layout           : center
 
-.gp-menu { display:none; }
-
-.gp-menu-bars { display:none; }
-
 #
 # Highlight Setting
 # Doc: https://gitpitch.com/docs/settings/highlight
