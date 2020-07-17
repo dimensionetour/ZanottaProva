@@ -17,7 +17,6 @@ theme-code       : [ "Source Code Pro", "100", "120" ]
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 layout           : center
-pro-menus-hidden : true
 #
 # Highlight Setting
 # Doc: https://gitpitch.com/docs/settings/highlight
@@ -53,7 +52,7 @@ layout : center
 # Doc: https://gitpitch.com/docs/settings/published
 #
 published : true
-bottom-menus-hidden : true
+navigation-menus-hidden : true
 #
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
@@ -76,6 +75,5 @@ highlight        : hybrid
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 layout           : center
-pro-menus-hidden : true
 
 # PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-END
