@@ -47,8 +47,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-#footnote : "GitPitch - The Fastest Way From Idea To Presentation"
-
+#footnote : "<a style='text-decoration:none; color: white;' href='https://www...'>...</a>"
 #
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published
@@ -80,3 +79,13 @@ theme-margins    : [ "0", "15px" ]
 layout           : center
 
 # PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-END
+
+.gp-tip { font-size : 1.5em; }
+
+.gp-contact { font-size : 1.4em; }
+
+.gp-download { margin-left: 10px; }
+
+.gp-menu { display:none; }
+
+.gp-menu-bars { display:none; }
