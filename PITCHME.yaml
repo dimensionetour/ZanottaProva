@@ -62,6 +62,8 @@ title : "GitPitch Quickstart Markdown Presentation"
 description : "GitPitch Markdown Presentations for Developers."
 # thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
 
+pro-menus-hidden : true
+
 
 audio-deck : true
 
