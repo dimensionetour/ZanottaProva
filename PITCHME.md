@@ -1,5 +1,7 @@
 ---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1594886111/ZanottaProva/h.png&size= contain
 @audio[Introduction](assets/audio/Alison_Knowles_Popular_Bean_Soup.mp3)
+menu { display:none; }
+menu-bars { display:none; }
 
 ---?color=auto&size=auto 120%
 <div class="sketchfab-embed-wrapper">
